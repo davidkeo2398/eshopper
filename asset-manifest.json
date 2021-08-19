@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eshopper/static/css/main.a617e044.chunk.css",
+    "main.js": "/eshopper/static/js/main.74618494.chunk.js",
+    "main.js.map": "/eshopper/static/js/main.74618494.chunk.js.map",
+    "runtime-main.js": "/eshopper/static/js/runtime-main.a235ad3c.js",
+    "runtime-main.js.map": "/eshopper/static/js/runtime-main.a235ad3c.js.map",
+    "static/js/2.85a96451.chunk.js": "/eshopper/static/js/2.85a96451.chunk.js",
+    "static/js/2.85a96451.chunk.js.map": "/eshopper/static/js/2.85a96451.chunk.js.map",
+    "static/js/3.ae3a05f4.chunk.js": "/eshopper/static/js/3.ae3a05f4.chunk.js",
+    "static/js/3.ae3a05f4.chunk.js.map": "/eshopper/static/js/3.ae3a05f4.chunk.js.map",
+    "index.html": "/eshopper/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/eshopper/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.85a96451.chunk.js.LICENSE.txt": "/eshopper/static/js/2.85a96451.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/eshopper/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a235ad3c.js",
+    "static/js/2.85a96451.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.74618494.chunk.js"
+  ]
+}
